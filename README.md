@@ -1,5 +1,7 @@
 # Twitter-Sentiment-analysis-in-Python-using-NLP
-Sentiment analysis of Twitter based data
+
+![alt text](https://github.com/yatinkode/Twitter-Sentiment-analysis-in-Python-using-NLP/blob/master/sentiment-fig-1-689.jpg)
+
 
 You can download the dataset from http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip
 
